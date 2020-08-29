@@ -1,0 +1,16 @@
+{
+  "name": "close-word",
+  "version": "1.2.0",
+  "description": "this module will help to find the closest word from given set of words",
+  "main": "close-word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "close",
+    "word",
+    "string matching"
+  ],
+  "author": "R Isuru Sameera Sandaruwan",
+  "license": "ISC"
+}
