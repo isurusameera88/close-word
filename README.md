@@ -32,7 +32,7 @@ console.log(result);
   { word: 'new delhi', score: 166.39344262295083 },
   { word: 'london', score: 116.39344262295083 },
   { word: 'kandy', score: 114.08450704225352 }
-]
+] */
 
 ```
 
@@ -48,7 +48,7 @@ console.log(result);
   { word: 'new york', score: 440.9090909090909 },
   { word: 'new jersey', score: 216.39344262295083 },
   { word: 'new delhi', score: 166.39344262295083 }
-]
+]*/
 
 ```
 
